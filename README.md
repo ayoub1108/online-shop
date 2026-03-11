@@ -1,7 +1,14 @@
 
 # 🛒 Shopcart Ecommerce Website
 
+<<<<<<< HEAD
 <img width="1920" height="876" alt="image" src="https://github.com/user-attachments/assets/5463de32-97f8-4e5b-b073-9e9ffff9fa04" />
+=======
+<img width="1920" height="863" alt="image" src="https://github.com/user-attachments/assets/837094f8-6747-436d-bcf7-cde6e633c2b8" />
+
+## ✨ Hosted with Vercel 
+https://shopcart.reactbd.com/
+>>>>>>> c4652f041ef1dc4b02f5bba2cefcb99262de4d68
 
 *Shopcart - A modern e-commerce interface for gadgets and appliances*
 
