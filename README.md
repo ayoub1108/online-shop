@@ -6,7 +6,6 @@
 
 ## ✨ Hosted with Vercel 
 https://shopcart.reactbd.com/
->>>>>>> c4652f041ef1dc4b02f5bba2cefcb99262de4d68
 
 *Shopcart - A modern e-commerce interface for gadgets and appliances*
 
@@ -78,8 +77,8 @@ shopcartyt/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/noorjsdivs/shopcartyt.git
-   cd shopcartyt
+   git clone [https://github.com/ayoub1108/online-shop.git
+   cd my-app
    ```
 
 2. **Install dependencies**
